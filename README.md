@@ -19,3 +19,5 @@ fix confict is easy
 but sometimes
 fix confict is hard
 i dont konw how to fix it 
+
+use fetch to fetch changes to responsity first,then merge to your workplace
