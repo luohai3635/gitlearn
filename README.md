@@ -12,3 +12,5 @@ config your git,three level
 you can edit those files to directly change the values
 you can access those values by :
     ```git config --global user.email``` like this
+
+conflict !!!!!
