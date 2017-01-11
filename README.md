@@ -21,3 +21,7 @@ fix confict is hard
 i dont konw how to fix it 
 
 use fetch to fetch changes to responsity first,then merge to your workplace
+
+```git fetch origin branch``` fetch origin branch to local responsity
+```git diff local_branch origin/branch``` diff 
+```git merge origin/branch``` merge remote branch to local branch
