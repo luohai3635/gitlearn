@@ -14,3 +14,6 @@ you can access those values by :
     ```git config --global user.email``` like this
 
 chapter 5
+
+fix confict is hard
+i dont konw how to fix it 
