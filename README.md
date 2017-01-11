@@ -16,3 +16,6 @@ you can access those values by :
 chapter 5
 
 fix confict is easy
+but sometimes
+fix confict is hard
+i dont konw how to fix it 
